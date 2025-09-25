@@ -79,6 +79,7 @@ Assets/
     │   └── SFX/
     └── Scenes/           (MainMenu, Forest, Dungeon)
 
+
 🚀 Development Goals
 
     Deliver a polished beta demo suitable for a school project.
