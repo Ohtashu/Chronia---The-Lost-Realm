@@ -4,6 +4,8 @@
 Chronia: The Lost Realm is a **2D action RPG** built in Unity, inspired by the fast-paced combat and charming pixel-art style of *Secret of Grindea*.
 This project is developed as a **small-scale demo (beta)** for a school project, focusing on the fundamentals of **exploration, combat, and interactive environments**.
 
+⚠️ **Note:** This project is currently in **early development (WIP)**. Core systems such as combat, exploration, and interaction are still being built, and nothing is fully functional yet.  
+
 ---
 
 ## 🎮 Game Concept
